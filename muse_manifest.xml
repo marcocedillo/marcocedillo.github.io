@@ -1,0 +1,42 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="www.expogansonora.org" resolutions="1x" timestamp="1478911061313">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="29980129" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u404.php" crc="421751130" ref="index"/>
+    <file name="form-u736.php" crc="4077385404" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u310-6.png" crc="4113371701" ref="index"/>
+    <file name="preprando.jpg" crc="4207584661" ref="index"/>
+    <file name="encuesta.jpg" crc="3919752030" seo="true" ref="index"/>
+    <file name="patrocinios.jpg" crc="67785928" seo="true" ref="index"/>
+    <file name="contacto.jpg" crc="356131567" seo="true" ref="index"/>
+    <file name="pasted image 512x512.png" crc="4222122985" seo="true" ref="index"/>
+    <file name="pasted image 512x5122.png" crc="177152023" seo="true" ref="index"/>
+    <file name="pasted image 160x160.jpg" crc="4174831745" seo="true" ref="index"/>
+    <file name="pasted image 137x100-crop-u284.jpg" crc="4152629395" ref="index"/>
+    <file name="pasted image 1280x720-crop-u643.jpg" crc="370598844" ref="index"/>
+    <file name="u664-4.png" crc="3758391324" ref="index"/>
+    <file name="u682-4.png" crc="4249375608" ref="index"/>
+    <file name="u676-6.png" crc="4262527060" ref="index"/>
+    <file name="pasted image 512x51221x21.png" crc="4223330071" seo="true" ref="index"/>
+    <file name="pasted image 512x51221x212.png" crc="3829635674" seo="true" ref="index"/>
+    <file name="pasted image 137x100-crop-u621.jpg" crc="456002447" ref="index"/>
+    <file name="pasted image 256x256.png" crc="4179799131" seo="true" ref="index"/>
+    <file name="ugrs.png" crc="4034176210" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3933957524" seo="true" mt="1478910977374" redirect="true"/>
+</manifest>
